@@ -1,2 +1,3 @@
 # notes-app
-A recreation of the 
+
+A simple notes app written in Rust
